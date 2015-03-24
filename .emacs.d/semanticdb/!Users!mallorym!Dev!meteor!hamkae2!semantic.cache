@@ -1,0 +1,16 @@
+;; Object hamkae2/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "hamkae2/"
+  :tables
+  (list
+    (semanticdb-table "hamkae2.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "hamkae2.html"
+      :pointmax 1
+      :fsize 0
+      :lastmodtime '(21637 2318 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!meteor!hamkae2!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

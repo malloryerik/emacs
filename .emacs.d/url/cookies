@@ -1,0 +1,23 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("1867685.r.msn.com"
+  [url-cookie "httponly" nil "Thu, 26 Feb 2015 22:03:25 GMT" "/" "1867685.r.msn.com" nil]
+  [url-cookie "MSConv" "4v8def47aa7147305e1cfa7d20ff7f6b8a12a1afe9913204ecadda792eb7066ad49d0b30459379f2747065df741e35116fdd87c3043481948ff384cb783a6baffbba58b4571676cabda00c3189d6ac2dde33b470ca29ef14c78569d1d691e8455e017e02676894a45ea753eeda6e338907b6e9221634e349e740d3503e28aefaa33554094c272ff267c26cd7031f87c3f34366e71310" "Thu, 26 Feb 2015 22:03:25 GMT" "/" "1867685.r.msn.com" nil])
+ (".google.com"
+  [url-cookie "PREF" "ID=75ddefb71936a565:U=0f1bd77156ad7942:FF=0:TM=1421475828:LM=1421475841:S=YpkxM8o_jensZeR2" "16-Jan-2017 06:24:01.00 GMT" "/" ".google.com" nil]
+  [url-cookie "NID" "67=DXeMm5MT-MvtfZEwyZ5-LWikv6b3l0bibiJPLPXBUs0aVxJeOUQ_GlfRgF7lQqWHKifL1F_sXzwRLSgt2I0Vn00FcqrHd_tat4viGzSbD9S8Q7SlE1BTso2EctBvSJMq" "19-Jul-2015 06:23:48.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "19-Jul-2015 06:23:48.00 GMT" "/" ".google.com" nil])
+ (".r.msn.com"
+  [url-cookie "MSNewUser" "4v200087f2157a691b0bd1fa9dd60e8b412aef8c2f8de34a1d42184254ac905552c8333c72c609e4d0e4958ddc9d794e7ddd0559921e56bdfc78a0107e811d4c4b027d54fd5a594d0d5a3f8670dcb9d5aa521e3707494b12f75aa35274b0a0ac555d8f2af3cabd6c0bdc9b4173236b1512193f22a309cf5b8333ea5e35917e75ddb0103554094c8f9ea7f42939fafe03732d33c06a9f3910" "Thu, 26 Feb 2015 22:03:25 GMT" "/" ".r.msn.com" nil]
+  [url-cookie "httponly" nil "Thu, 26 Feb 2015 22:03:25 GMT" "/" ".r.msn.com" nil]
+  [url-cookie "MSAnalytics" "4v6595677b1d30e868d5e7afea37dadd428206098c3e3ef3134809652c55407843ac1571f0ca301e68a51bb9c88f0985694250f04d7d385dcbe3986d37700f49973554094c22954b9a8a5707f6798d2b84fc25578410" "Thu, 26 Feb 2015 22:03:25 GMT" "/" ".r.msn.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

@@ -1,0 +1,300 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/mallorym/Dev/Meteor/locationer/client/" . "views/")
+ ("/Users/mallorym/Dev/Meteor/locationer/" . "client/")
+ ("/Users/mallorym/Dev/Meteor/playwright-proto4/" . "client/")
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/client/" . "lib/")
+ ("/Users/mallorym/Dev/Meteor/storyminder/" . "client/")
+ ("/Users/mallorym/.emacs.d/" . "elpa/")
+ ("/Users/mallorym/.emacs.d/elpa/" . "sublime-themes-20141011.1134/")
+ ("/Users/mallorym/Documents/dev/meteor/" . "Documentation - Meteor_files/")
+ ("/Users/mallorym/Documents/dev/" . "meteor/")
+ ("/Users/mallorym/Documents/" . "G/")
+ ("/Users/mallorym/Dev/book-around/hamkae2/main/" . "client/")
+ ("/Users/mallorym/Dev/book-around/hamkae2/" . "main/")
+ ("/Users/mallorym/Dev/book-around/" . "hamkae2/")
+ ("/Users/mallorym/evil/" . "doc/")
+ ("/Users/mallorym/Dev/Meteor/hamkae/client/" . "compatibility/")
+ ("/Users/mallorym/Dev/Meteor/hamkae/" . "client/")
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/" . "client/")
+ ("/Users/mallorym/Dev/Meteor/hamkae2/" . "base/")
+ ("/Users/mallorym/Dev/Meteor/" . "bullet-kadira/")
+ ("/Users/mallorym/Dev/" . "Meteor/")
+ ("/Users/" . "mallorym/")
+ ("/" . "Users/")
+ ("/Users/mallorym/Dropbox/" . "orgmode/")
+ ("/Users/mallorym/" . "Dev/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/mallorym/"
+ "/Users/mallorym/Dev/Meteor/bulletproof/Microscope/server/"
+ "/Users/mallorym/Dev/Meteor/"
+ "/Users/mallorym/Dev/"
+ "/Users/mallorym/Dropbox/"
+ "/Users/mallorym/.dropbox/"
+ "/Users/mallorym/Dev/Meteor/bullet-kadira/client/"
+ "/Users/mallorym/Dev/Meteor/bullet-kadira/"
+ "/Users/mallorym/Dev/Meteor/bullet-kadira/server/"
+ "/Users/mallorym/Dev/Meteor/ariadne/"
+ "/Users/mallorym/Dev/Meteor/ariadneStorm/"
+ "/Users/"
+ "/Users/mallorym/Dropbox/orgmode/"
+ "/Users/mallorym/.emacs.d/elpa/"
+ "/usr/local/"
+ "/Users/mallorym/Dev/Meteor/locationer/"
+ "/Users/mallorym/Dev/Meteor/locationer/client/views/"
+ "/Users/mallorym/Dev/Meteor/locationer/client/"
+ "/Users/mallorym/Dropbox/MobileOrg/"
+ "/Users/mallorym/Dev/Meteor/locationer/server/"
+ "/Users/mallorym/Dev/Meteor/locationer/collections/"
+ "/Users/mallorym/Dev/Meteor/locationer/lib/"
+ "/Users/mallorym/Dev/Meteor/ariadne/lib/"
+ "/"
+ "/Users/mallorym/Dev/Meteor/playwright-proto4/client/"
+ "/Users/mallorym/.emacs.d/"
+ "/Users/mallorym/.emacs.d/elpa/sublime-themes-20141011.1134/"
+ "/Users/mallorym/.emacs.d/elpa/color-theme-20080305.34/"
+ "/Users/mallorym/Dev/Meteor/storyminder/client/"
+ "/usr/local/Cellar/emacs/24.4/share/info/emacs/"
+ "/Users/mallorym/.emacs.d/elpa/expand-region-20141223.1328/"
+ "/Users/mallorym/Dev/Meteor/ariadne/client/"
+ "/Users/mallorym/Dev/Meteor/ariadne/helpers/"
+ "/Users/mallorym/Dev/Meteor/hamkae2/lib/"
+ "/Users/mallorym/Dev/Meteor/hamkae2/"
+ "/Users/mallorym/Documents/G/"
+ "/Users/mallorym/Dev/hamkae/"
+ "/Users/mallorym/Dev/Meteor/hamkae2/base/client/"
+ "/Users/mallorym/Dev/book-around/hamkae2/"
+ "/Users/mallorym/.emacs.d/elpa/auto-complete-20141228.633/"
+ "/Users/mallorym/Dev/Meteor/storyminder/"
+ "/Users/mallorym/.emacs.d/elpa/company-20150122.1502/"
+ "/Users/mallorym/Dev/Meteor/storyminder/main/"
+ "/Users/mallorym/Dev/Meteor/storyminder/helpers/"
+ "/Users/mallorym/.emacs.d/elpa/ace-jump-mode-20140616.115/"
+ "/Users/mallorym/Dev/Meteor/storyminder/lib/"
+ "/dev/"
+ "/usr/local/Cellar/emacs/"
+ "/Users/mallorym/.emacs.d/elpa/tern-20141204.242/"
+ "/Users/mallorym/Dev/storyminder/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "kadira.js"
+ "meteor-notes.org"
+ "server"
+ "client"
+ "ariadneNotes.org"
+ ".emacs"
+ "PointsChangDong3.org"
+ "jaewoo.org"
+ "ChangDongSuperPoints.org"
+ "ChangDong3.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/mallorym/Dev/" (21776 7809 0 0) "tern/" "reactive-dict.js/" "plain-vanilla/" "npm-debug.log" "ngrok.zip" "ngrok" "natural/" "MyPlayground.playground/" "meteor-cookbook/" "meteor-collection2/" "Meteor/" "iron-router/" "hamkae/" "google-maps-api/" "docs/" "demonstration/" "book-around/" "blast/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/" (21776 35721 0 0) "wordplay/" "wordmachine/" "togaebi/" "todos/" "storyminder/" "snippest/" "simpleRSS/" "seoulrockclub/" "scenario/" "routertest/" "reactivity-playground/" "prospect/" "praxis-old-files/" "praxis/" "playwright-proto4/" "playwright-proto3/" "playwright-proto2/" "playwright-proto-older-files/" "playwright-proto/" "Playwright-Notes/" "playwright-filestore/" "playwright-0-1/" "playwright/" "phaio/" "parties/" "natural-master.zip" "natural-master/" "meteor-notes.org~" "meteor-notes.org" "locationer/" "localmarket/" "lecteur/" "leaderboard/" "hello-streams/" "hamkae2/" "hamkae-foundation/" "hamkae/" "gbooks-api-call/" "ethereumYellowPaper.pdf" "dEx/" "depsdemo/" "deliverynet/" "cloudtown/" "cincilla/" "chatapp/" "carbrands/" "calico/" "bulletproof/" "bullet-kadira/" "bullet-defer/" "bookAround.sublime-workspace" "bookAround.sublime-project" "ariadneStorm/" "ariadne/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bulletproof/Microscope/server/" (21775 26873 0 0) "publications.js" "fixtures.js" ".#publications.js" ".#fixtures.js" "#publications.js#" "#fixtures.js#" "../" "./")
+
+ ("/dev/" (21773 9737 0 0) "ttys001" "ttys000" "HAX" "tty.MacBookAir-Bluetooth-In" "cu.MacBookAir-Bluetooth-In" "tty.Bluetooth-Modem" "cu.Bluetooth-Modem" "tty.Bluetooth-Incoming-Port" "cu.Bluetooth-Incoming-Port" "autofs_control" "autofs_homedirmounter" "autofs_notrigger" "autofs_nowait" "autofs" "xcpm" "rdisk0s3" "disk0s3" "rdisk0s2" "disk0s2" "rdisk0s1" "disk0s1" "io8logtemp" "io8logmt" "io8log" "rdisk0" "disk0" "afsc_type5" "profile" "fbt" "machtrace" "systrace" "sdt" "lockstat" "dtracehelper" "dtrace" "urandom" "random" "fsevents" "bpf3" "bpf2" "bpf1" "bpf0" "ptmx" "ptywf" "ttywf" "ptywe" "ttywe" "ptywd" "ttywd" "ptywc" "ttywc" "ptywb" "ttywb" "ptywa" "ttywa" "ptyw9" "ttyw9" "ptyw8" "ttyw8" "ptyw7" "ttyw7" "ptyw6" "ttyw6" "ptyw5" "ttyw5" "ptyw4" "ttyw4" "ptyw3" "ttyw3" "ptyw2" "ttyw2" "ptyw1" "ttyw1" "ptyw0" "ttyw0" "ptyvf" "ttyvf" "ptyve" "ttyve" "ptyvd" "ttyvd" "ptyvc" "ttyvc" "ptyvb" "ttyvb" "ptyva" "ttyva" "ptyv9" "ttyv9" "ptyv8" "ttyv8" "ptyv7" "ttyv7" "ptyv6" "ttyv6" "ptyv5" "ttyv5" "ptyv4" "ttyv4" "ptyv3" "ttyv3" "ptyv2" "ttyv2" "ptyv1" "ttyv1" "ptyv0" "ttyv0" "ptyuf" "ttyuf" "ptyue" "ttyue" "ptyud" "ttyud" "ptyuc" "ttyuc" "ptyub" "ttyub" "ptyua" "ttyua" "ptyu9" "ttyu9" "ptyu8" "ttyu8" "ptyu7" "ttyu7" "ptyu6" "ttyu6" "ptyu5" "ttyu5" "ptyu4" "ttyu4" "ptyu3" "ttyu3" "ptyu2" "ttyu2" "ptyu1" "ttyu1" "ptyu0" "ttyu0" "ptytf" "ttytf" "ptyte" "ttyte" "ptytd" "ttytd" "ptytc" "ttytc" "ptytb" "ttytb" "ptyta" "ttyta" "ptyt9" "ttyt9" "ptyt8" "ttyt8" "ptyt7" "ttyt7" "ptyt6" "ttyt6" "ptyt5" "ttyt5" "ptyt4" "ttyt4" "ptyt3" "ttyt3" "ptyt2" "ttyt2" "ptyt1" "ttyt1" "ptyt0" "ttyt0" "ptysf" "ttysf" "ptyse" "ttyse" "ptysd" "ttysd" "ptysc" "ttysc" "ptysb" "ttysb" "ptysa" "ttysa" "ptys9" "ttys9" "ptys8" "ttys8" "ptys7" "ttys7" "ptys6" "ttys6" "ptys5" "ttys5" "ptys4" "ttys4" "ptys3" "ttys3" "ptys2" "ttys2" "ptys1" "ttys1" "ptys0" "ttys0" "ptyrf" "ttyrf" "ptyre" "ttyre" "ptyrd" "ttyrd" "ptyrc" "ttyrc" "ptyrb" "ttyrb" "ptyra" "ttyra" "ptyr9" "ttyr9" "ptyr8" "ttyr8" "ptyr7" "ttyr7" "ptyr6" "ttyr6" "ptyr5" "ttyr5" "ptyr4" "ttyr4" "ptyr3" "ttyr3" "ptyr2" "ttyr2" "ptyr1" "ttyr1" "ptyr0" "ttyr0" "ptyqf" "ttyqf" "ptyqe" "ttyqe" "ptyqd" "ttyqd" "ptyqc" "ttyqc" "ptyqb" "ttyqb" "ptyqa" "ttyqa" "ptyq9" "ttyq9" "ptyq8" "ttyq8" "ptyq7" "ttyq7" "ptyq6" "ttyq6" "ptyq5" "ttyq5" "ptyq4" "ttyq4" "ptyq3" "ttyq3" "ptyq2" "ttyq2" "ptyq1" "ttyq1" "ptyq0" "ttyq0" "ptypf" "ttypf" "ptype" "ttype" "ptypd" "ttypd" "ptypc" "ttypc" "ptypb" "ttypb" "ptypa" "ttypa" "ptyp9" "ttyp9" "ptyp8" "ttyp8" "ptyp7" "ttyp7" "ptyp6" "ttyp6" "ptyp5" "ttyp5" "ptyp4" "ttyp4" "ptyp3" "ttyp3" "ptyp2" "ttyp2" "ptyp1" "ttyp1" "ptyp0" "ttyp0" "pfm" "pf" "auditpipe" "auditsessions" "stderr" "stdout" "stdin" "fd/" "klog" "zero" "null" "tty" "console" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/ariadne/client/" (21773 9653 0 0) "config.js~" "config.js" "client.js" "client.html~" "client.html" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/" (21773 9663 0 0) "url/" "tutorial/" "thumbs/" "spolski respect-theme.el" "semanticdb/" "init.el~" "init.el" "ido.last~" "ido.last" "evil/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".mc-lists.el" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/ariadne/lib/" (21773 9662 0 0) "router.js~" "router.js" "../" "./")
+
+ ("/Users/mallorym/Dropbox/orgmode/" (21773 9662 0 0) "todo.org~" "todo.org" "todo.html" "The Org Manual.webarchive" "TaeyeongPoints.org" "Taeyeong.org~" "Taeyeong.org" "PointsChangDong3.org~" "PointsChangDong3.org" "jokes.org" "jaewoo.org~" "jaewoo.org" "Gayeong.org~" "Gayeong.org" "Gayeong.html" "energyShare.org~" "energyShare.org" "carlottaPerezIdeas.org~" "carlottaPerezIdeas.org" "CandA2.org" "CandA.org~" "CandA.org" "CandA.html~" "CandA.html" ".DS_Store" "#enterprise.org#~" "#enterprise.org#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/ariadneStorm/" (21773 9661 0 0) "server/" "public/" "main/" "lib/" "hello.js~" "hello.js" "hello.html" "hello.css" "client/" ".meteor/" ".idea/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/ariadne/" (21773 9629 0 0) "server/" "public/" "lib/" "helpers/" "contributors.txt" "client.html~" "client/" "ariadneNotes.org~" "ariadneNotes.org" "ariadne.less~" "ariadne.less" "ariadne.js~" "ariadne.js" ".meteor/" ".idea/" ".git/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bullet-kadira/" (21773 9648 0 0) "server/" "README.md" "LICENSE" "client/" "app.js" ".meteor/" ".git/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bullet-kadira/client/" (21773 9648 0 0) "todoApp.html" "todoApp.css" "bootstrap2.css" "../" "./")
+
+ ("/Users/mallorym/.dropbox/" (21773 9792 0 0) "unlink.db" "logs/" "instance_db/" "instance1/" "info.json" "host.db" "dropbox.pid" "../" "./")
+
+ ("/Users/mallorym/Dropbox/" (21773 9794 0 0) "wooseop.org~" "wooseop.org" "todo.org~" "storyMinderWork.org~" "storyMinderWork.org" "storyMinder.org~" "storyMinder.org" "sendAround.org" "sakiStories.org~" "sakiStories.org" "saki1.txt" "reddeath.org" "Programming in Emacs Lisp.webarchive" "orgmode/" "MobileOrg/" "misc.org~" "misc.org" "louis.org~" "louis.org" "Icon
+" "hyomin.org~" "hyomin.org" "Getting Started.pdf" "generalNotes.org~" "generalNotes.org" "emacs-notes.org~" "emacs-notes.org" "daniel.org~" "daniel.org" "climatechangedVocab.rtf" "ChangDongSuperPoints.org~" "ChangDongSuperPoints.org" "ChangDong3.org~" "ChangDong3.org" "bookmarks.org" "bookAround.org~" "bookAround.org" "banpoDebaters.org~" "banpoDebaters.org" "ariadne.org" ".DS_Store" ".dropbox.cache/" ".dropbox" "#scratchIt.txt#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bulletproof/" (21773 5803 0 0) "Microscope/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bulletproof/Microscope/" (21773 5932 0 0) "server/" "README.nitrous.md" "README.markdown" "LICENSE.txt" "lib/" "client/" ".meteor/" ".git/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bulletproof/Microscope/lib/" (21774 28424 0 0) "router.js" "permissions.js" "collections/" ".#router.js" "#router.js#" "../" "./")
+
+ ("/Users/mallorym/" (21774 26507 0 0) "tutor" "tmp/" "Public/" "Pictures/" "nohup.out" "node_modules/" "myapp/" "Music/" "Movies/" "Library/" "Leaflet.docset/" "hamkae2/" "hamkae-wiki/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "diary~" "diary" "Dev/" "Desktop/" "Calibre Library/" "bullet-kadira/" "Applications/" "1" ".vimrc" ".viminfo" ".tutor.swp" ".Trash/" ".subversion/" ".sublime/" ".ssh/" ".npm/" ".node-gyp/" ".mongorc.js" ".mist/" ".meteorsession~" ".meteorsession" ".meteorite/" ".meteor/" ".lesshst" ".hgignore_global" ".gitignore_global" ".gitconfig~" ".gitconfig" ".finch" ".emacs~" ".emacs.d/" ".emacs-places" ".emacs" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" ".android/" "#diary#~" "#.DS_Store#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bullet-kadira/server/" (21770 55773 0 0) "kadira.js~" "kadira.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/bullet-defer/" (21772 57374 0 0) "server/" "README.md" "LICENSE" "client/" "app.js" ".meteor/" ".git/" ".#app.js" "#app.js#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/ariadne/helpers/" (21770 19811 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/sublime-themes-20141011.1134/" (21767 33160 0 0) "wilson-theme.el" "sublime-themes.elc" "sublime-themes.el" "sublime-themes-pkg.el" "sublime-themes-autoloads.el~" "sublime-themes-autoloads.el" "spolsky-theme.el~" "spolsky-theme.el" "ritchie-theme.el" "odersky-theme.el~" "odersky-theme.el" "mccarthy-theme.el" "junio-theme.el" "hickey-theme.el" "granger-theme.el" "graham-theme.el" "fogus-theme.el" "dorsey-theme.el" "brin-theme.el" "#odersky-theme.el#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/lib/" (21759 41366 0 0) "router.js~" "router.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/collections/" (21767 29046 0 0) "places.js~" "places.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/server/" (21762 46309 0 0) "publications.js~" "publications.js" "index.js~" "index.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/client/views/" (21767 29046 0 0) "home.js~" "home.js" "home.html~" "home.html" "header.html" "app_layout.html~" "app_layout.html" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/emacs/" (21673 8894 0 0) "site-lisp/" "24.4/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/emacs/24.4/" (21673 8894 0 0) "site-lisp/" "lisp/" "etc/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/emacs/24.4/lisp/" (21673 8908 0 0) "xt-mouse.elc" "xt-mouse.el.gz" "xml.elc" "xml.el.gz" "x-dnd.elc" "x-dnd.el.gz" "woman.elc" "woman.el.gz" "winner.elc" "winner.el.gz" "window.elc" "window.el.gz" "windmove.elc" "windmove.el.gz" "widget.elc" "widget.el.gz" "wid-edit.elc" "wid-edit.el.gz" "wid-browse.elc" "wid-browse.el.gz" "whitespace.elc" "whitespace.el.gz" "wdired.elc" "wdired.el.gz" "w32-vars.elc" "w32-vars.el.gz" "w32-fns.elc" "w32-fns.el.gz" "w32-common-fns.elc" "w32-common-fns.el.gz" "vt100-led.elc" "vt100-led.el.gz" "vt-control.elc" "vt-control.el.gz" "view.elc" "view.el.gz" "version.elc" "version.el.gz" "vcursor.elc" "vcursor.el.gz" "vc/" "userlock.elc" "userlock.el.gz" "url/" "uniquify.elc" "uniquify.el.gz" "type-break.elc" "type-break.el.gz" "tutorial.elc" "tutorial.el.gz" "tree-widget.elc" "tree-widget.el.gz" "tooltip.elc" "tooltip.el.gz" "tool-bar.elc" "tool-bar.el.gz" "tmm.elc" "tmm.el.gz" "timezone.elc" "timezone.el.gz" "time.elc" "time.el.gz" "time-stamp.elc" "time-stamp.el.gz" "thumbs.elc" "thumbs.el.gz" "thingatpt.elc" "thingatpt.el.gz" "textmodes/" "term.elc" "term.el.gz" "term/" "tempo.elc" "tempo.el.gz" "tar-mode.elc" "tar-mode.el.gz" "talk.elc" "talk.el.gz" "tabify.elc" "tabify.el.gz" "t-mouse.elc" "t-mouse.el.gz" "subr.elc" "subr.el.gz" "subdirs.el" "strokes.elc" "strokes.el.gz" "startup.elc" "startup.el.gz" "speedbar.elc" "speedbar.el.gz" "soundex.elc" "soundex.el.gz" "sort.elc" "sort.el.gz" "skeleton.elc" "skeleton.el.gz" "simple.elc" "simple.el.gz" "shell.elc" "shell.el.gz" "shadowfile.elc" "shadowfile.el.gz" "ses.elc" "ses.el.gz" "server.elc" "server.el.gz" "select.elc" "select.el.gz" "scroll-lock.elc" "scroll-lock.el.gz" "scroll-bar.elc" "scroll-bar.el.gz" "scroll-all.elc" "scroll-all.el.gz" "sb-image.elc" "sb-image.el.gz" "saveplace.elc" "saveplace.el.gz" "savehist.elc" "savehist.el.gz" "ruler-mode.elc" "ruler-mode.el.gz" "rot13.elc" "rot13.el.gz" "rfn-eshadow.elc" "rfn-eshadow.el.gz" "reveal.elc" "reveal.el.gz" "reposition.elc" "reposition.el.gz" "replace.elc" "replace.el.gz" "repeat.elc" "repeat.el.gz" "register.elc" "register.el.gz" "rect.elc" "rect.el.gz" "recentf.elc" "recentf.el.gz" "README" "ps-samp.elc" "ps-samp.el.gz" "ps-print.elc" "ps-print.el.gz" "ps-mule.elc" "ps-mule.el.gz" "ps-def.elc" "ps-def.el.gz" "ps-bdf.elc" "ps-bdf.el.gz" "progmodes/" "profiler.elc" "profiler.el.gz" "proced.elc" "proced.el.gz" "printing.elc" "printing.el.gz" "play/" "pcomplete.elc" "pcomplete.el.gz" "pcmpl-x.elc" "pcmpl-x.el.gz" "pcmpl-unix.elc" "pcmpl-unix.el.gz" "pcmpl-rpm.elc" "pcmpl-rpm.el.gz" "pcmpl-linux.elc" "pcmpl-linux.el.gz" "pcmpl-gnu.elc" "pcmpl-gnu.el.gz" "pcmpl-cvs.elc" "pcmpl-cvs.el.gz" "password-cache.elc" "password-cache.el.gz" "paren.elc" "paren.el.gz" "outline.elc" "outline.el.gz" "org/" "obsolete/" "nxml/" "novice.elc" "novice.el.gz" "notifications.elc" "notifications.el.gz" "newcomment.elc" "newcomment.el.gz" "net/" "mwheel.elc" "mwheel.el.gz" "msb.elc" "msb.el.gz" "mpc.elc" "mpc.el.gz" "mouse.elc" "mouse.el.gz" "mouse-drag.elc" "mouse-drag.el.gz" "mouse-copy.elc" "mouse-copy.el.gz" "misearch.elc" "misearch.el.gz" "misc.elc" "misc.el.gz" "minibuffer.elc" "minibuffer.el.gz" "minibuf-eldef.elc" "minibuf-eldef.el.gz" "midnight.elc" "midnight.el.gz" "mh-e/" "menu-bar.elc" "menu-bar.el.gz" "md4.elc" "md4.el.gz" "mb-depth.elc" "mb-depth.el.gz" "master.elc" "master.el.gz" "man.elc" "man.el.gz" "makesum.elc" "makesum.el.gz" "mail/" "macros.elc" "macros.el.gz" "ls-lisp.elc" "ls-lisp.el.gz" "lpr.elc" "lpr.el.gz" "locate.elc" "locate.el.gz" "loadup.el" "loadhist.elc" "loadhist.el.gz" "loaddefs.el" "linum.elc" "linum.el.gz" "leim/" "ldefs-boot.el" "language/" "kmacro.elc" "kmacro.el.gz" "kermit.elc" "kermit.el.gz" "json.elc" "json.el.gz" "jka-compr.elc" "jka-compr.el.gz" "jka-cmpr-hook.elc" "jka-cmpr-hook.el.gz" "jit-lock.elc" "jit-lock.el.gz" "isearchb.elc" "isearchb.el.gz" "isearch.elc" "isearch.el.gz" "international/" "informat.elc" "informat.el.gz" "info.elc" "info.el.gz" "info-xref.elc" "info-xref.el.gz" "info-look.elc" "info-look.el.gz" "indent.elc" "indent.el.gz" "imenu.elc" "imenu.el.gz" "image.elc" "image.el.gz" "image-mode.elc" "image-mode.el.gz" "image-file.elc" "image-file.el.gz" "image-dired.elc" "image-dired.el.gz" "iimage.elc" "iimage.el.gz" "ielm.elc" "ielm.el.gz" "ido.elc" "ido.el.gz" "icomplete.elc" "icomplete.el.gz" "ibuffer.elc" "ibuffer.el.gz" "ibuf-macs.elc" "ibuf-macs.el.gz" "ibuf-ext.elc" "ibuf-ext.el.gz" "htmlfontify.elc" "htmlfontify.el.gz" "hl-line.elc" "hl-line.el.gz" "hippie-exp.elc" "hippie-exp.el.gz" "hilit-chg.elc" "hilit-chg.el.gz" "hi-lock.elc" "hi-lock.el.gz" "hfy-cmap.elc" "hfy-cmap.el.gz" "hexl.elc" "hexl.el.gz" "hex-util.elc" "hex-util.el.gz" "help.elc" "help.el.gz" "help-mode.elc" "help-mode.el.gz" "help-macro.elc" "help-macro.el.gz" "help-fns.elc" "help-fns.el.gz" "help-at-pt.elc" "help-at-pt.el.gz" "gs.elc" "gs.el.gz" "gnus/" "generic-x.elc" "generic-x.el.gz" "fringe.elc" "fringe.el.gz" "frameset.elc" "frameset.el.gz" "frame.elc" "frame.el.gz" "forms.elc" "forms.el.gz" "format.elc" "format.el.gz" "format-spec.elc" "format-spec.el.gz" "font-lock.elc" "font-lock.el.gz" "font-core.elc" "font-core.el.gz" "follow.elc" "follow.el.gz" "foldout.elc" "foldout.el.gz" "flow-ctrl.elc" "flow-ctrl.el.gz" "finder.elc" "finder.el.gz" "finder-inf.el" "find-lisp.elc" "find-lisp.el.gz" "find-file.elc" "find-file.el.gz" "find-dired.elc" "find-dired.el.gz" "find-cmd.elc" "find-cmd.el.gz" "filesets.elc" "filesets.el.gz" "files.elc" "files.el.gz" "files-x.elc" "files-x.el.gz" "filenotify.elc" "filenotify.el.gz" "filecache.elc" "filecache.el.gz" "ffap.elc" "ffap.el.gz" "faces.elc" "faces.el.gz" "facemenu.elc" "facemenu.el.gz" "face-remap.elc" "face-remap.el.gz" "ezimage.elc" "ezimage.el.gz" "expand.elc" "expand.el.gz" "eshell/" "erc/" "epg.elc" "epg.el.gz" "epg-config.elc" "epg-config.el.gz" "epa.elc" "epa.el.gz" "epa-mail.elc" "epa-mail.el.gz" "epa-hook.elc" "epa-hook.el.gz" "epa-file.elc" "epa-file.el.gz" "epa-dired.elc" "epa-dired.el.gz" "env.elc" "env.el.gz" "emulation/" "emacs-lock.elc" "emacs-lock.el.gz" "emacs-lisp/" "elide-head.elc" "elide-head.el.gz" "electric.elc" "electric.el.gz" "elec-pair.elc" "elec-pair.el.gz" "ehelp.elc" "ehelp.el.gz" "edmacro.elc" "edmacro.el.gz" "echistory.elc" "echistory.el.gz" "ebuff-menu.elc" "ebuff-menu.el.gz" "dynamic-setting.elc" "dynamic-setting.el.gz" "double.elc" "double.el.gz" "dos-w32.elc" "dos-w32.el.gz" "dos-vars.elc" "dos-vars.el.gz" "dos-fns.elc" "dos-fns.el.gz" "doc-view.elc" "doc-view.el.gz" "dnd.elc" "dnd.el.gz" "disp-table.elc" "disp-table.el.gz" "dirtrack.elc" "dirtrack.el.gz" "dired.elc" "dired.el.gz" "dired-x.elc" "dired-x.el.gz" "dired-aux.elc" "dired-aux.el.gz" "dframe.elc" "dframe.el.gz" "desktop.elc" "desktop.el.gz" "descr-text.elc" "descr-text.el.gz" "delsel.elc" "delsel.el.gz" "delim-col.elc" "delim-col.el.gz" "dabbrev.elc" "dabbrev.el.gz" "custom.elc" "custom.el.gz" "cus-theme.elc" "cus-theme.el.gz" "cus-start.elc" "cus-start.el.gz" "cus-load.el" "cus-face.elc" "cus-face.el.gz" "cus-edit.elc" "cus-edit.el.gz" "cus-dep.elc" "cus-dep.el.gz" "COPYING" "composite.elc" "composite.el.gz" "completion.elc" "completion.el.gz" "comint.elc" "comint.el.gz" "color.elc" "color.el.gz" "cmuscheme.elc" "cmuscheme.el.gz" "chistory.elc" "chistory.el.gz" "cedet/" "cdl.elc" "cdl.el.gz" "case-table.elc" "case-table.el.gz" "calendar/" "calculator.elc" "calculator.el.gz" "calc/" "button.elc" "button.el.gz" "buff-menu.elc" "buff-menu.el.gz" "bs.elc" "bs.el.gz" "bookmark.elc" "bookmark.el.gz" "bindings.elc" "bindings.el.gz" "battery.elc" "battery.el.gz" "avoid.elc" "avoid.el.gz" "autorevert.elc" "autorevert.el.gz" "autoinsert.elc" "autoinsert.el.gz" "autoarg.elc" "autoarg.el.gz" "array.elc" "array.el.gz" "arc-mode.elc" "arc-mode.el.gz" "apropos.elc" "apropos.el.gz" "ansi-color.elc" "ansi-color.el.gz" "allout.elc" "allout.el.gz" "allout-widgets.elc" "allout-widgets.el.gz" "align.elc" "align.el.gz" "abbrev.elc" "abbrev.el.gz" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/client/" (21759 33258 0 0) "views/" "cordova.js~" "cordova.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/client/" (21752 8470 0 0) "subscriptions.js" "lib/" "helpers/" "hamkae.less~" "hamkae.less" "hamkae.js~" "hamkae.js" "hamkae.html~" "hamkae.html" "compatibility/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/playwright-proto4/client/" (21752 8470 0 0) "verses.less" "verses.js~" "verses.js" "verses.html~" "verses.html" "verseInput/" "subscriptions.js" "newCharacter/" "lib/" "entryHall/" "compatibility/" "checkLogin.less" "checkLogin.js" "accounts.js" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dropbox/MobileOrg/" (21752 8469 0 0) "miscObs.org~" "miscObs.org" "checksums.dat" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/locationer/" (21741 36897 0 0) "server/" "public/" "lib/" "collections/" "client/" ".meteor/" ".git/" "../" "./")
+
+ ("~/" (21732 58630 0 0) "tutor" "tmp/" "Public/" "Pictures/" "nohup.out" "node_modules/" "myapp/" "Music/" "Movies/" "Library/" "hamkae2/" "hamkae-wiki/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "diary~" "diary" "Dev/" "Desktop/" "Calibre Library/" "bullet-kadira/" "Applications/" "1" ".vimrc" ".viminfo" ".tutor.swp" ".Trash/" ".subversion/" ".sublime/" ".ssh/" ".npm/" ".node-gyp/" ".mongorc.js" ".mist/" ".meteorsession" ".meteorite/" ".meteor/" ".hgignore_global" ".gitignore_global" ".gitconfig~" ".gitconfig" ".finch" ".emacs~" ".emacs.d/" ".emacs-places" ".emacs" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" ".android/" "#diary#~" "#.DS_Store#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/lib/" (21732 53220 0 0) "router.js~" "router.js" "collections.js~" "collections.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/client/" (21732 53223 0 0) "newTemplates.html" "language.js~" "language.js" "client2.html~" "client2.html" "client.less~" "client.less" "client.js~" "client.js" "client.html~" "client.html" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/color-theme-20080305.34/" (21674 692 0 0) "themes/" "color-theme.elc" "color-theme.el" "color-theme-pkg.el" "color-theme-autoloads.el~" "color-theme-autoloads.el" "../" "./")
+
+ ("/usr/local/Cellar/" (21732 11005 0 0) "yajl/" "xz/" "wget/" "tree/" "pkg-config/" "pixman/" "pcre/" "ossp-uuid/" "openssl/" "libvorbis/" "libtiff/" "libsndfile/" "libpng/" "libogg/" "libffi/" "libevent/" "jpeg/" "io/" "gmp/" "glib/" "gettext/" "freetype/" "fontconfig/" "flac/" "emacs/" "cmake/" "cairo/" "brew-cask/" "../" "./")
+
+ ("/Users/Shared/" (21626 53724 0 0) "SC Info/" "adi/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/" (21730 49098 0 0) "xml-rpc-20130423.1356/" "writegood-mode-readme.txt" "workgroups2-readme.txt" "wordsmith-mode-readme.txt" "wordsmith-mode-20140203.427/" "windata-20080412.1455/" "weblogger-readme.txt" "web-server-20140905.1706/" "web-mode-20150105.1354/" "undo-tree-20140509.522/" "tree-mode-20121207.1538/" "travis-readme.txt" "transpose-frame-20131221.1542/" "tracking-20141122.1201/" "tern-20150123.252/" "sublime-themes-20141011.1134/" "smart-mode-line-powerline-theme-20141229.1046/" "smart-mode-line-20150106.1401/" "shorten-20131201.620/" "s-20140910.334/" "rich-minority-20141225.820/" "request-deferred-20130526.1015/" "request-20140316.417/" "powerline-20141125.726/" "popup-20141215.349/" "pkg-info-20140610.630/" "org2jekyll-readme.txt" "org2jekyll-20150216.1325/" "org-tree-slide-20150214.2330/" "org-gcal-readme.txt" "org-gcal-20140606.2022/" "org-elisp-help-20130423.1545/" "org-ehtml-20140524.1124/" "org-20141229/" "ob-mongo-readme.txt~" "ob-mongo-readme.txt" "ob-browser-readme.txt" "nodejs-repl-readme.txt" "nodejs-repl-20130520.842/" "multiple-cursors-20150101.1431/" "mowedline-readme.txt" "move-text-20140307.1644/" "monokai-theme-20141121.1202/" "molokai-theme-20130828.0/" "magit-annex-readme.txt" "lui-20141207.1111/" "leuven-theme-20150213.522/" "let-alist-1.0.3/" "less-css-mode-20140919.524/" "lcs-20121201.555/" "js3-mode-20140805.1529/" "js2-refactor-readme.txt" "jquery-doc-20131223.845/" "goto-chg-20131228.1459/" "gntp-20141024.1950/" "flycheck-ghcmod-readme.txt" "flycheck-color-mode-line-readme.txt" "flycheck-color-mode-line-20131125.2138/" "flycheck-20150117.1114/" "flycheck-20150103.323/" "flatland-theme-20140805.305/" "f-20150113.24/" "expand-region-20141223.1328/" "evil-20150105.2348/" "epl-20140823.609/" "draft-mode-readme.txt" "dirtree-readme.txt" "dirtree-20140129.832/" "dired-rainbow-20141214.543/" "dired-hacks-utils-20140711.1229/" "dired-details-20130824.1158/" "dired+-readme.txt" "dired+-20150203.521/" "deferred-20141208.1613/" "dash-functional-20141008.712/" "dash-20141220.1452/" "company-tern-20150115.1101/" "company-20150122.1502/" "color-theme-solarized-20140408.1309/" "color-theme-sanityinc-tomorrow-20141205.141/" "color-theme-sanityinc-solarized-20141205.143/" "color-theme-20080305.34/" "circe-20141223.1358/" "chinese-pyim-20141231.1925/" "chinese-fonts-setup-20141231.606/" "boron-theme-20141115.2301/" "auto-complete-readme.txt" "auto-complete-20150124.1523/" "auto-complete-20141228.633/" "ariadne-readme.txt" "archives/" "alert-20141222.1703/" "ace-window-readme.txt" "ace-jump-mode-20140616.115/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/helpers/" (21720 4767 0 0) "config.js~" "config.js" "../" "./")
+
+ ("/Users/mallorym/Documents/G/" (21720 4804 0 0) "Mary Miller.jpg" "g" "fanta.org" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/lib/" (21720 4798 0 0) "router.js" "collections.js~" "collections.js" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/" (21720 4806 0 0) "server/" "client/" ".DS_Store~" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/" (21708 15730 0 0) "server/" "public/" "notes.txt" "lib/" "hamkae2.js" "hamkae2.html" "base/" ".meteor/" ".DS_Store" "#hamkae2.html#" "../" "./")
+
+ ("/Users/mallorym/Dev/hamkae/" (21677 59178 0 0) "hamkae-wiki.html" "#hamkae-wiki.html#" "../" "./")
+
+ ("/Users/mallorym/Dev/book-around/hamkae2/" (21708 15148 0 0) "server/" "main/" "lib/" "hamkae2.js" "hamkae2.html~" "hamkae2.html" ".meteor/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/auto-complete-20141228.633/" (21705 37617 0 0) "dict/" "auto-complete.elc" "auto-complete.el" "auto-complete-pkg.el" "auto-complete-config.elc" "auto-complete-config.el" "auto-complete-autoloads.el~" "auto-complete-autoloads.el" "#auto-complete-config.el#" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/auto-complete-20150124.1523/" (21705 37791 0 0) "dict/" "auto-complete.elc" "auto-complete.el" "auto-complete-pkg.el" "auto-complete-config.elc" "auto-complete-config.el" "auto-complete-autoloads.el~" "auto-complete-autoloads.el" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/" (21704 26224 0 0) "storyminder.js~" "storyminder.js" "storyminder.html~" "storyminder.html" "storyminder.css~" "storyminder.css" "server/" "packages.json~" "packages.json" "packages/" "main/" "lib/" "helpers/" "client/" ".meteor/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/main/" (21701 46332 0 0) "speckledBandText.js" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/company-20150122.1502/" (21703 19032 0 0) "company.elc" "company.el" "company-yasnippet.elc" "company-yasnippet.el" "company-xcode.elc" "company-xcode.el" "company-tempo.el~" "company-tempo.elc" "company-tempo.el" "company-template.elc" "company-template.el" "company-semantic.elc" "company-semantic.el" "company-ropemacs.elc" "company-ropemacs.el" "company-pysmell.elc" "company-pysmell.el" "company-pkg.el" "company-oddmuse.elc" "company-oddmuse.el" "company-nxml.elc" "company-nxml.el" "company-keywords.elc" "company-keywords.el" "company-ispell.elc" "company-ispell.el" "company-gtags.elc" "company-gtags.el" "company-files.elc" "company-files.el" "company-etags.elc" "company-etags.el" "company-elisp.elc" "company-elisp.el" "company-eclim.elc" "company-eclim.el" "company-dabbrev.elc" "company-dabbrev.el" "company-dabbrev-code.elc" "company-dabbrev-code.el" "company-css.elc" "company-css.el" "company-cmake.elc" "company-cmake.el" "company-clang.elc" "company-clang.el" "company-capf.elc" "company-capf.el" "company-bbdb.elc" "company-bbdb.el" "company-autoloads.el~" "company-autoloads.el" "company-abbrev.elc" "company-abbrev.el" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/tern-20150123.252/" (21703 3524 0 0) "tern.elc" "tern.el" "tern-pkg.elc" "tern-pkg.el" "tern-autoloads.el~" "tern-autoloads.el" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/client/lib/" (21651 60750 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/storyminder/main/./" (21700 55945 0 0) "../" "./")
+
+ ("/User Information/" (21626 54075 0 0) "The FreeType Project License.rtf" "ENERGY STAR.pdf" "AirPort Extreme and Bluetooth Regulatory Certification.pdf" ".localized/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae2/base/client/helpers/" (21700 51906 0 0) "config.js" ".#config.js" "#config.js#" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae/" (21700 40444 0 0) "server/" "public/" "lib/" "hamkae.less" "hamkae.js" "hamkae.html~" "hamkae.html" "client/" ".meteor/" "#hamkae.js#" "#hamkae.html#" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/tern-20141204.242/" (21697 54230 0 0) "tern.elc" "tern.el" "tern-pkg.elc" "tern-pkg.el" "tern-autoloads.el~" "tern-autoloads.el" "#tern.el#" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/expand-region-20141223.1328/" (21696 51898 0 0) "web-mode-expansions.elc" "web-mode-expansions.el" "the-org-mode-expansions.el~" "the-org-mode-expansions.elc" "the-org-mode-expansions.el" "text-mode-expansions.elc" "text-mode-expansions.el" "subword-mode-expansions.elc" "subword-mode-expansions.el" "sml-mode-expansions.elc" "sml-mode-expansions.el" "ruby-mode-expansions.elc" "ruby-mode-expansions.el" "python-mode-expansions.elc" "python-mode-expansions.el" "python-el-fgallina-expansions.elc" "python-el-fgallina-expansions.el" "python-el-expansions.elc" "python-el-expansions.el" "octave-expansions.elc" "octave-expansions.el" "nxml-mode-expansions.elc" "nxml-mode-expansions.el" "latex-mode-expansions.elc" "latex-mode-expansions.el" "jsp-expansions.elc" "jsp-expansions.el" "js2-mode-expansions.elc" "js2-mode-expansions.el" "js-mode-expansions.elc" "js-mode-expansions.el" "html-mode-expansions.elc" "html-mode-expansions.el" "feature-mode-expansions.elc" "feature-mode-expansions.el" "expand-region.elc" "expand-region.el" "expand-region-pkg.el" "expand-region-custom.elc" "expand-region-custom.el" "expand-region-core.elc" "expand-region-core.el" "expand-region-autoloads.el~" "expand-region-autoloads.el" "erlang-mode-expansions.elc" "erlang-mode-expansions.el" "er-basic-expansions.elc" "er-basic-expansions.el" "enh-ruby-mode-expansions.elc" "enh-ruby-mode-expansions.el" "css-mode-expansions.elc" "css-mode-expansions.el" "cperl-mode-expansions.elc" "cperl-mode-expansions.el" "clojure-mode-expansions.elc" "clojure-mode-expansions.el" "cc-mode-expansions.elc" "cc-mode-expansions.el" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/ace-jump-mode-20140616.115/" (21693 51717 0 0) "ace-jump-mode.elc" "ace-jump-mode.el" "ace-jump-mode-pkg.elc" "ace-jump-mode-pkg.el" "ace-jump-mode-autoloads.el~" "ace-jump-mode-autoloads.el" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/gbooks-api-call/" (21694 30523 0 0) "gbooks-api-call.js" "gbooks-api-call.html" "gbooks-api-call.css" ".meteor/" "#gbooks-api-call.js#" "#gbooks-api-call.html#" "../" "./")
+
+ ("/Users/mallorym/Dev/storyminder/" (21694 103 0 0) ".meteor/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/playwright-proto4/" (21669 11092 0 0) "smart.json" "server/" "playwright-proto4.js" "playwright-proto4.html" "playwright-proto4.css" "packages.json" "packages/" "lib/" "client/" ".meteor/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Desktop/" (21691 19048 0 0) "untitled folder/" "todo.org" "Terminal Saved Output.txt" "technologyInnovationCP.pdf" "Screen Shot 2014-12-30 at 6.01.23 PM.png" "mvim.png" "Meteor alias" "mallorym alias" "Google Drive" "emacs settings.txt" "blockchainDocs/" "Applications alias" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/dirtree-20140129.832/" (21693 55538 0 0) "dirtree.elc" "dirtree.el" "dirtree-pkg.elc" "dirtree-pkg.el" "dirtree-autoloads.el~" "dirtree-autoloads.el" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/neotree-20150102.427/" (21693 54463 0 0) "neotree.elc" "neotree.el" "neotree-pkg.el" "neotree-autoloads.el~" "neotree-autoloads.el" "icons/" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/lecteur/" (21693 51242 0 0) "lecteur.js" "lecteur.html" "lecteur.css" ".meteor/" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/flycheck-20150117.1114/" (21693 50410 0 0) "flycheck.info-2" "flycheck.info-1" "flycheck.info" "flycheck.elc" "flycheck.el" "flycheck-pkg.el" "flycheck-ert.elc" "flycheck-ert.el" "flycheck-autoloads.el~" "flycheck-autoloads.el" "dir" "../" "./")
+
+ ("/Users/mallorym/Documents/dev/meteor/Documentation - Meteor_files/" (21592 39977 0 0) "mixpanel.2.js" "logo.png" "ga.js" "forkme_right_red_aa0000.png" "d9a9938011ee80b4c620479a9e56141c032505e1.js" "bbb571aa3e513a5e6b93da82d46a2b05b0456df3.js" "b9d00ce534775f679aad5eefe64ccccbab0c5748.js" "97ae41f5fdb1e0a36ec8b5fe72abc9591b1c3499.css" "65c1cbbce2e765ff79d3776999ef38e5a06ab583.js" "4d615ada58316528be0d0fc45253c61bd2feb22c.css" "3638b3c3e8f376d9364a363868721208f77edf9a.css" "../" "./")
+
+ ("/Users/mallorym/Documents/dev/meteor/" (21657 37421 0 0) "Use Meteor Iron-Router waitOn to load external javascript_files/" "Use Meteor Iron-Router waitOn to load external javascript.html" "The Meteor Manual_files/" "The Meteor Manual.webarchive" "The Meteor Manual.html" "Spacebars Secrets: Exploring Meteor Templates - Discover Meteor.webarchive" "spacebars/" "seoulrockclub.txt" "packages/" "MeteorCaptureFiles/" "meteor: scoped reactivity.webarchive" "meteor README.md at devel · meteor meteor_files/" "meteor README.md at devel · meteor meteor.html" "Meteor  Using Iron-Router to Conditionally Load JavaScript Libraries   EMPIRE5_files/" "Meteor  Using Iron-Router to Conditionally Load JavaScript Libraries   EMPIRE5.html" "joshowens accounts-entry package   Atmosphere_files/" "joshowens accounts-entry package   Atmosphere.html" "Iron.Router.webarchive" "iron-router README.md at devel · EventedMind iron-router_files/" "iron-router README.md at devel · EventedMind iron-router.html" "iron-router DOCS.md at devel · EventedMind iron-router_files/" "iron-router DOCS.md at devel · EventedMind iron-router.html" "fast-render/" "Documentation - Meteor_files/" "Documentation - Meteor.webarchive" "Documentation - Meteor.html" "Digilord:roles package | Atmosphere.webarchive" "blaze-layout README.md at master · EventedMind blaze-layout_files/" "blaze-layout README.md at master · EventedMind blaze-layout.html" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Documents/dev/" (21673 10026 0 0) "Scribbleton/" "praxis_files/" "praxis.html" "patterns.js" "mongodb.pdf" "mongodb/" "meteorNotes.rtf" "meteor/" "Mailgun REST API 2.0 documentation_files/" "Mailgun REST API 2.0 documentation.html" "littleMongoBook.pdf" "JavaScript Design Patterns.webarchive" "Handlebars.js Tutorial: Learn Everything About Handlebars.js JavaScript Templating | JavaScript is S.webarchive" "gridster/" "googleMapsTuts/" "Font Awesome Cheatsheet_files/" "Font Awesome Cheatsheet.html" "emacs/" "DevNotes/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Documents/" (21680 64360 0 0) "WebsiteContentLanguages.svg.png" "toOhBomSeok.pages/" "TiddlyWiki — a non-linear personal web notebook.webarchive" "thoughtsOnThe Plane.pages/" "text/" "story_of_if.key/" "story_of_if/" "SmallWorldersIdeas.pages" "SeoulRockClub.materials/" "SeoulRockClub.inform/" "Screencasts/" "reading/" "Onyx.materials/" "Onyx.inform/" "MongoDB_Uni_for_Node/" "Men In Black 2 Script - transcript from the screenplay and or Will Smith and Tommy Lee Jones movie_files/" "Men In Black 2 Script - transcript from the screenplay and or Will Smith and Tommy Lee Jones movie.html" "jquery-1.11.1.min.js" "jquery-1.11.1.js" "Inform7-Documentation/" "gerenalities.pages/" "G/" "francais/" "engCode/" "dev/" "blockchain/" "Arduino/" "aMule Downloads/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/evil/" (21687 13885 0 0) "Makefile" "lib/" "evil.el" "evil-vars.el" "evil-types.el" "evil-tests.el" "evil-states.el" "evil-search.el" "evil-repeat.el" "evil-pkg.el" "evil-maps.el" "evil-macros.el" "evil-integration.el" "evil-ex.el" "evil-digraphs.el" "evil-core.el" "evil-common.el" "evil-commands.el" "evil-command-window.el" "doc/" "COPYING" "CHANGES.org" ".gitignore" ".gitattributes" ".git/" ".DS_Store" "#CHANGES.org#" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/evil/doc/" (21672 43044 0 0) "version.texi" "macros.texi" "logo.svg" "logo.png" "front.png" "fdl-1.3.texi" "evil.texi" "evil.pdf" "../" "./")
+
+ ("/Users/mallorym/Dev/book-around/hamkae2/main/client/" (21687 9221 0 0) "subscriptions.js" "main.less" "main.js~" "main.js" "main.html" "lib/" "helpers/" "compatibility/" "#main.html#" "../" "./")
+
+ ("/Users/mallorym/evil/doc/" (21672 43044 0 0) "version.texi" "macros.texi" "logo.svg" "logo.png" "front.png" "fdl-1.3.texi" "evil.texi" "evil.pdf" "../" "./")
+
+ ("/Applications/" (21674 40863 0 0) "YTD.app/" "Xcode.app/" "uTorrent.app/" "Utilities/" "Time Machine.app/" "TextEdit.app/" "System Preferences.app/" "Sublime Text.app/" "Sublime Text 2.app/" "Sublime Text" "Stickies.app/" "SourceTree.app/" "Slack.app/" "Simplenote.app/" "Scribbleton.app/" "Safari.app/" "Reminders.app/" "QuickTime Player.app/" "Preview.app/" "Photo Booth.app/" "Pages.app/" "Numbers.app/" "Notes.app/" "Mission Control.app/" "Minecraft.app/" "Messages.app/" "Maps.app/" "Mail.app/" "MacVim.app/" "Launchpad.app/" "Keynote.app/" "Karabiner.app/" "iTunes.app/" "iPhoto.app/" "Inform.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "Google Earth.app/" "Google Drive.app/" "Google Chrome.app/" "GitHub.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Firefox.app/" "FaceTime.app/" "Emacs.app/" "DVD Player.app/" "Dropbox.app/" "Dictionary.app/" "Dashboard.app/" "Dash.app/" "Contacts.app/" "Chess.app/" "calibre.app/" "Calendar.app/" "Calculator.app/" "Automator.app/" "App Store.app/" "Alfred 2.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Applications/Dropbox.app/" (21684 42565 0 0) "Contents/" "../" "./")
+
+ ("/Applications/Dropbox.app/Contents/" (21684 42561 0 0) "Resources/" "PlugIns/" "PkgInfo" "MacOS/" "Info.plist" "Frameworks/" "_CodeSignature/" "../" "./")
+
+ ("/Users/mallorym/Dev/book-around/hamkae2/main/" (21632 14 0 0) "server/" "client/" "../" "./")
+
+ ("/Users/mallorym/Dev/book-around/" (21649 9323 0 0) "hamkae2/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/mallorym/Applications/" (21511 6047 0 0) "Chrome Apps.localized/" ".localized" ".DS_Store" "../" "./")
+
+ ("/usr/" (21682 27622 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/usr/local/" (21682 29330 0 0) "var/" "SUPPORTERS.md" "share/" "README.md" "opt/" "m/" "LICENSE.txt" "Library/" "libexec/" "lib/" "include/" "git/" "etc/" "CONTRIBUTING.md" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/mallorym/.emacs.d/elpa/smart-mode-line-powerline-theme-20141229.1046/" (21679 39168 0 0) "smart-mode-line-powerline-theme.elc" "smart-mode-line-powerline-theme.el" "smart-mode-line-powerline-theme-pkg.elc" "smart-mode-line-powerline-theme-pkg.el" "smart-mode-line-powerline-theme-autoloads.el~" "smart-mode-line-powerline-theme-autoloads.el" "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae/client/compatibility/" (21631 63375 0 0) "../" "./")
+
+ ("/Users/mallorym/Dev/Meteor/hamkae/client/" (21630 22186 0 0) "lib/" "compatibility/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/" (21673 8768 0 0) "24.4/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/" (21673 8912 0 0) "var/" "share/" "README" "libexec/" "INSTALL_RECEIPT.json" "homebrew.mxcl.emacs.plist" "Emacs.app/" "COPYING" "ChangeLog" "bin/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/" (21673 8873 0 0) "man/" "info/" "icons/" "emacs/" "applications/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/info/" (21673 8869 0 0) "emacs/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/share/info/emacs/" (21673 8873 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "octave-mode.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "ido.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "../" "./")
+
+ ("/Users/mallorym/Dropbox/ChangDong3.org/" (21677 62669 0 0) "../" "./")
+
+ ("/Users/mallorym/evil/" (21677 62229 0 0) "Makefile" "lib/" "evil.el" "evil-vars.el" "evil-types.el" "evil-tests.el" "evil-states.el" "evil-search.el" "evil-repeat.el" "evil-pkg.el" "evil-maps.el" "evil-macros.el" "evil-integration.el" "evil-ex.el" "evil-digraphs.el" "evil-core.el" "evil-common.el" "evil-commands.el" "evil-command-window.el" "doc/" "COPYING" "CHANGES.org" ".gitignore" ".gitattributes" ".git/" "#CHANGES.org#" "../" "./")
+
+ ("/Users/" (21626 53724 0 0) "Shared/" "mallorym alias" "mallorym/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/mallorym/.meteor/" (21660 13190 0 0) "tools/" "releases/" "packages/" "package-metadata/" "meteor" "android_bundle/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

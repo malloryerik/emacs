@@ -1,0 +1,14 @@
+;; Object /
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "/"
+  :tables
+  (list
+    (semanticdb-table "app_layout"
+      :major-mode 'html-mode
+      :tags nil
+      :file "app_layout"
+      :pointmax 1
+      :unmatched-syntax nil))
+  :file "!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

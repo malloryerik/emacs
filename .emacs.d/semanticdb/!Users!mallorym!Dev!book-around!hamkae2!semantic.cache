@@ -1,0 +1,40 @@
+;; Object hamkae2/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "hamkae2/"
+  :tables
+  (list
+    (semanticdb-table "hamkae2.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Book Around" section (:members 
+              ( ("구입 할까?^^" anchor nil nil [1286 1289])
+                ("Amazing!" anchor nil nil [3346 3349])
+                ("Button Bay" anchor nil nil [3397 3400])
+                ("Collection" anchor nil nil [3452 3455])
+                ("View Profile" anchor nil nil [3512 3515])
+                ("Welcome home,
+	<br />
+	{{currentUser.username}}" section (:members 
+                  ( ("{{>loginButtons}}" section nil nil [4165 5769]))                  ) nil [3841 5769])
+                ("{{#if currentUser}}
+	{{currentUser.username}},{{/if}} 아매이징이다!!!
+	<br/>
+	\"It's Amazing{{#if currentUser}}, {{currentUser.username}}{{else}}!{{/if}}!\"" section (:members 
+                  ( ("{{currentUser.username}}'s Profile" section (:members 
+                      ( ("Basic" anchor nil nil [6360 6363])
+                        ("Profile" anchor nil nil [6438 6441])
+                        ("Messages <span class=\"badge\">3" anchor nil nil [6518 6521]))                      ) nil [6214 6833])
+                    ("Books I'm sharing" section (:members 
+                      ( ("우편 주소 <span class=\"lightgrey\">Mailing Address" section nil nil [7853 8053])
+                        ("우편 주소 <span class=\"lightgrey\">Mailing Address" section (:members 
+                          ( ("Update 정보를 갱신" anchor nil nil [8429 8432]))                          ) nil [8053 9215]))                      ) nil [6833 9215])
+                    ("Panel title" section (:members 
+                      ( ("우편 주소 <span class=\"lightgrey\">Mailing Address" section nil nil [10131 10553]))                      ) nil [9215 10553]))                  ) nil [5769 10553]))              ) nil [10 10553]))          
+      :file "hamkae2.html"
+      :pointmax 10553
+      :fsize 0
+      :lastmodtime '(21637 2318 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!book-around!hamkae2!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

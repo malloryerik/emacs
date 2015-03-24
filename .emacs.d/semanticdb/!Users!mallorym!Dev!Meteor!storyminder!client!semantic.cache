@@ -1,0 +1,51 @@
+;; Object client/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "client/"
+  :tables
+  (list
+    (semanticdb-table "client.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("StoryMinder" section nil nil [13 264])
+            ("tags)   ////////// -->
+<template name=\"layout\">
+    {{>statusBarTop}}
+    {{>yield}}" section (:members 
+              ( ("replace this later with something dynamic. the initial version here is just one story... -->
+                    <i><u>Sherlock Holmes" section nil nil [1329 2732]))              ) nil [264 2732]))          
+      :file "client.html"
+      :pointmax 2732
+      :fsize 2731
+      :lastmodtime '(21731 6489 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "client.html~"
+      :major-mode 'html-mode
+      :tags 
+        '( ("StoryMinder" section nil nil [11 47])
+            ("{{> statusTop}}
+  {{> desk}}" section (:members 
+              ( ("Sherlock Holmes" section nil nil [201 274])
+                ("The" section nil nil [274 286])
+                ("Speckled Band" section nil nil [286 405]))              ) nil [47 405]))          
+      :file "client.html~"
+      :pointmax 405
+      :fsize 2245
+      :lastmodtime '(21724 40839 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "client.js"
+      :major-mode 'js-mode
+      :tags nil
+      :file "client.js"
+      :pointmax 797
+      :fsize 2789
+      :lastmodtime '(21731 6327 0 0)
+      :unmatched-syntax '((VARIABLE 555 . 563) (PAREN_BLOCK 584 . 792) (VARIABLE 329 . 336) (PAREN_BLOCK 347 . 424) (VARIABLE 214 . 221) (PAREN_BLOCK 232 . 251) (VARIABLE 87 . 94) (PAREN_BLOCK 105 . 127) (PAREN_BLOCK 20 . 55) (VARIABLE 555 . 563) (PAREN_BLOCK 584 . 792) (VARIABLE 329 . 336) (PAREN_BLOCK 347 . 424) (VARIABLE 214 . 221) (PAREN_BLOCK 232 . 251) (VARIABLE 87 . 94) (PAREN_BLOCK 105 . 127) (PAREN_BLOCK 20 . 55)))
+    (semanticdb-table "newTemplates.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "newTemplates.html"
+      :pointmax 2
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!Meteor!storyminder!client!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

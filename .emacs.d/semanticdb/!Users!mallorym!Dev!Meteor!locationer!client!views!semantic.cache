@@ -1,0 +1,38 @@
+;; Object views/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "views/"
+  :tables
+  (list
+    (semanticdb-table "app_layout.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("{{> header}}
+
+  {{> yield}}
+
+  {{> yield \"footer\"}}" section nil nil [94 275]))          
+      :file "app_layout.html"
+      :pointmax 275
+      :fsize 274
+      :lastmodtime '(21759 41269 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "header.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Locationer" section nil nil [62 120]))          
+      :file "header.html"
+      :pointmax 120
+      :fsize 119
+      :lastmodtime '(21759 41257 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "home.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "home.html"
+      :pointmax 121
+      :fsize 120
+      :lastmodtime '(21752 8469 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!Meteor!locationer!client!views!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

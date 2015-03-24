@@ -1,0 +1,28 @@
+;; Object storyminder/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "storyminder/"
+  :tables
+  (list
+    (semanticdb-table "storyminder.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("storyminder" section nil nil [24 78])
+            ("-->
+<!--   <h1>StoryMinder" section (:members 
+              ( ("StoryMinder" section nil nil [96 317]))              ) nil [78 317]))          
+      :file "storyminder.html"
+      :pointmax 317
+      :fsize 316
+      :lastmodtime '(21694 4454 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "packages.json"
+      :major-mode 'js-mode
+      :tags nil
+      :file "packages.json"
+      :pointmax 31
+      :fsize 30
+      :lastmodtime '(21704 26224 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!Meteor!storyminder!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

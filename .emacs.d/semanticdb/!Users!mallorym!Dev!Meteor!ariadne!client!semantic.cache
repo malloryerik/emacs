@@ -1,0 +1,26 @@
+;; Object client/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "client/"
+  :tables
+  (list
+    (semanticdb-table "client.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Ariadne" section (:members 
+              ( ("도깨비" section nil nil [500 692]))              ) nil [11 692]))          
+      :file "client.html"
+      :pointmax 692
+      :fsize 697
+      :lastmodtime '(21770 18981 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "client.js"
+      :major-mode 'js-mode
+      :tags nil
+      :file "client.js"
+      :pointmax 279
+      :fsize 235
+      :lastmodtime '(21769 49844 0 0)
+      :unmatched-syntax '((VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 277 . 280) ($EOI 281 . 281) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198) (VARIABLE 242 . 250) (PAREN_BLOCK 265 . 274) (PAREN_BLOCK 64 . 198))))
+  :file "!Users!mallorym!Dev!Meteor!ariadne!client!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

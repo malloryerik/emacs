@@ -1,0 +1,19 @@
+;; Object hamkae/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "hamkae/"
+  :tables
+  (list
+    (semanticdb-table "hamkae.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("hamkae" section (:members 
+              ( ("class=\"navbar-brand huge\" href=\"#\">함께" anchor nil nil [428 431])
+                ("Link" anchor nil nil [818 821]))              ) nil [10 953]))          
+      :file "hamkae.html"
+      :pointmax 953
+      :fsize 974
+      :lastmodtime '(21682 28896 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!Meteor!hamkae!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,16 @@
+;; Object ariadne/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "ariadne/"
+  :tables
+  (list
+    (semanticdb-table "ariadne.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "ariadne.html"
+      :pointmax 1
+      :fsize 0
+      :lastmodtime '(21710 6775 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!mallorym!Dev!Meteor!ariadne!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
